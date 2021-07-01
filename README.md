@@ -1,4 +1,5 @@
 python skill test
+
 #server
 i created a socket and then binded the port number and the address of the client and then listened for connection wth client
 i then created a function threaded client to represent and perform the actions of a single connected client so that i can allow multiple clients to connect on different threads
